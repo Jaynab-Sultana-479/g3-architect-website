@@ -20,7 +20,11 @@
     padding: 20px 25px;
     cursor:pointer;
   }
-  
+  .section-title{
+    font-size:3rem;
+    font-weight: 700;
+    color: #131313;
+  }
 
   header{
     background-color: rgba(255, 144, 14, 0.10);
@@ -46,11 +50,7 @@
 
 
   }
-  .nav-title{
-    font-size:3rem;
-    font-weight: 700;
-    color: #131313;
-  }
+  
   /* banner-styles */
   .banner-content{
     max-width: 800px;
